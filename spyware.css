@@ -854,7 +854,7 @@ html.theme-light {
 }
 
 #app-mount .info__2debe .line__2debe:last-child:after {
-    content: "Chillax " var(--cl-appearance) " 🎮";
+    content: "SpyWare " var(--cl-appearance) " 🎮";
     display: block;
 }
 
@@ -2905,3 +2905,4 @@ html.theme-light .modeSelected__2ea32 .name__2ea32 {
 .sidebarContainer__89463 {
     background-color: transparent !important;
 }
+
